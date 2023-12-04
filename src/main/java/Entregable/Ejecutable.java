@@ -44,6 +44,7 @@ public class Ejecutable {
                     System.out.println("9 -> Eliminar cursos.");
                     System.out.println("10 -> Eliminar incripciones.");
                     System.out.println("¿Que opcion desea realizar?, pon 0 para terminar.");
+                    System.out.println("Ahora estoy con git");
 
                     try {
                         opcion = Integer.parseInt(sc.nextLine());
